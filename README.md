@@ -1,5 +1,5 @@
 ![Bannière](https://i.ibb.co/kcf3SBm/banniere.jpg)
-## Hey, welcome on my GitHub !
+## Hey, welcome on my profile !
 #### My name is Baptiste, I’m 16, and I’m a french developer based in Rennes.
 #### I love everything related to webdesign and frontend. 
 
