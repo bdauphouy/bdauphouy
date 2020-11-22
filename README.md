@@ -10,5 +10,5 @@
 <p>
   My name is Baptiste, and I'm a french developer, webdesign and frontend enthusiast.
   <br>
-  Currenty improving my skills in React and backend development
+  Currenty improving my skills in React and backend development.
 </p>
