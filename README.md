@@ -4,5 +4,6 @@
 #### I love everything related to webdesign and frontend. 
 
 #### Currently improving my skills in web developement, especially about backend development. Each day is an opportunity for me to expand my knowledges.
+#### Follow me on Twitter [@baptistedph](https://twitter.com/baptistedph)
 ###
 ![Skills](https://i.ibb.co/tJZBVcN/skills.jpg)
