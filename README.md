@@ -10,6 +10,6 @@
 <p>I'm Baptiste Dauphouy, frontend developer and student at <a href="https://www.hetic.net">HETIC</a>.</p>
 
 
-<a href="bdph.me">portfolio</a> - <a href="bdph.me/twitter">twitter</a> - <a href="bdph.me/linkedin">linkedin</a>
+<a href="https://bdph.me">portfolio</a> - <a href="https://bdph.me/twitter">twitter</a> - <a href="https://bdph.me/linkedin">linkedin</a>
 
 
