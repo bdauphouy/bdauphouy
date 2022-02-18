@@ -6,7 +6,7 @@
   <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
   <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </div>
-<h3>Hi there, welcome on my GitHub profile 👋</h3>
+<h3>Hi there, welcome to my GitHub profile 👋</h3>
 <p>I'm Baptiste Dauphouy, frontend developer and student at <a href="https://www.hetic.net">HETIC</a>.</p>
 
 
