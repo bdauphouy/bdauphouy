@@ -1,15 +1,45 @@
 <div>
-  <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-  <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="20" src="./icons/html5.svg">
+  &nbsp;
+  <img height="20" src="./icons/css3.svg">
+  &nbsp;
+  <img height="20" src="./icons/sass.svg">
+  &nbsp;
+  <img height="20" src="./icons/tailwindcss.svg">
+  &nbsp;
+  <img height="20" src="./icons/javascript.svg">
+  &nbsp;
+  <img height="20" src="./icons/react.svg">
+  &nbsp;
+  <img height="20" src="./icons/nextdotjs.svg">
+  &nbsp;
+  <img height="20" src="./icons/vuedotjs.svg">
+  &nbsp;
+  <img height="20" src="./icons/svelte.svg">
+  &nbsp;
+  <img height="20" src="./icons/nodedotjs.svg">
+  &nbsp;
+  <img height="20" src="./icons/express.svg">
+  &nbsp;
+  <img height="20" src="./icons/mongodb.svg">
+  &nbsp;
+  <img height="20" src="./icons/strapi.svg">
+  &nbsp;
+  <img height="20" src="./icons/greensock.svg">
+  &nbsp;
+  <img height="20" src="./icons/framer.svg">
+  &nbsp;
+  <img height="20" src="./icons/threedotjs.svg">
+  &nbsp;
+  <img height="20" src="./icons/figma.svg">
+  &nbsp;
+  <img height="20" src="./icons/git.svg">
+  &nbsp;
+  <img height="20" src="./icons/python.svg">
 </div>
-<h3>Hi there, welcome to my GitHub profile 👋</h3>
-<p>I'm Baptiste Dauphouy, frontend developer and student at <a href="https://www.hetic.net">HETIC</a>.</p>
 
+### Hi there, welcome to my GitHub profile 👋
 
-<a href="https://bdph.me">portfolio</a> - <a href="https://bdph.me/twitter">twitter</a> - <a href="https://bdph.me/linkedin">linkedin</a>
+I'm Baptiste Dauphouy, frontend developer and student at [HETIC](https://www.hetic.net).
 
-
+[portfolio](https://www.bdph.me) - [twitter](https://bdph.me/twitter) - [linkedin](https://bdph.me/linkedin)
